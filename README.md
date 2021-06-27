@@ -21,3 +21,10 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Folder structure
 src -> app -->users
                 -> add / edit user
+                
+## Following Fields basic CRUD opration with data saved in services(without API services)
+- First Name
+- Last Name
+- Email
+- Phone Number
+- Status (Possible values: Active/Inactive)
